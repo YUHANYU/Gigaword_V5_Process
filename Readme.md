@@ -1,5 +1,5 @@
 # @ Time         :  2019/7/2
-# @ Author       :  Dong Hao, XiaoWei Du, Hanyu Yu
+# @ Author       :  Hanyu Yu
 # @ Environment  :  Python 3.7.0 + spaCy 2.1.0 + BeautifulSoup 4.6.3
 
 
@@ -14,7 +14,7 @@ You only need to give the target file sub-folder in the main function.
 The processed files are put in the four type of folder under this project.
 Please attention, the project has not finish and may be has some mistake.
 Note that this project is still a work in progress.
-If you have any idea, please contact with me. yuhanyu@cloudwalk.cn/yuhanyu@m.scnu.edu.cn
+If you have any idea, please contact with me. yuhanyu@m.scnu.edu.cn
 
 代码描述
 这是针对English Gigaword 5-th 新闻文本数据的处理代码。 https://catalog.ldc.upenn.edu/LDC2011T07
@@ -24,5 +24,5 @@ If you have any idea, please contact with me. yuhanyu@cloudwalk.cn/yuhanyu@m.scn
 只需要在main主函数中给出目标文件子文件夹，如apw_eng，就能被处理。
 处理后的文件存放路径为项目路径下的四个类型的子文件。
 请注意，当前项目尚未完成，可能存在一些错误。
-如果你感到有任何想法，请和我联系。yuhanyu@cloudwalk.cn/yuhanyu@m.scnu.edu.cn
+如果你感到有任何想法，请和我联系。yuhanyu@m.scnu.edu.cn
 """
